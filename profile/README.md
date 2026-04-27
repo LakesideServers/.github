@@ -16,19 +16,7 @@
 
 ## 📖 About
 
-**Lakeside Servers** is a community-driven server project maintained by a dedicated team. Whether you're here to play, connect, or contribute — you've found the right place.
-
-We aim to provide a stable, well-managed, and welcoming environment for all members.
-
----
-
-## 🚀 Getting Started
-
-To connect or get involved:
-
-1. **Join our community** — Links available in the pinned channels
-2. **Read the rules** — Respect keeps the community thriving
-3. **Have fun** — That's what we're here for
+**Lakeside Servers** is a community-driven server project maintained by a dedicated team.
 
 ---
 
