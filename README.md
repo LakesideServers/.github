@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Lakeside-Online-4fc3f7?style=for-the-badge&logo=server&logoColor=white" />
+<img src="https://img.shields.io/badge/Lakeside-Servers-4fc3f7?style=for-the-badge&logo=server&logoColor=white" />
 
 #Lakeside Servers
 
