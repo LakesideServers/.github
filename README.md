@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Lakeside-Servers-4fc3f7?style=for-the-badge&logo=server&logoColor=white" />
 
-#Lakeside Servers
+# Lakeside Servers
 
 > *Reliable. Scalable. Built by the community, for the community.*
 
